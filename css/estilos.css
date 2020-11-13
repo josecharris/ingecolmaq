@@ -1,0 +1,18 @@
+.formulario{
+    width: 550px;
+    height: 400px;
+    margin:auto auto 0px auto; 
+}
+.titulo{
+text-align: center;
+font-size: 50px;
+}
+.tabla{
+    width: 1400px;
+    height: 400px;
+    margin: 0px auto 0px auto;
+}
+.indices{
+    text-align: center;
+    font-size: 17px;
+}
